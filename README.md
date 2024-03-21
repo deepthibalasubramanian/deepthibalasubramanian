@@ -7,7 +7,7 @@ My passion lies in providing equal access to technology for people from diverse 
 * 🚀  I'm currently working on Mitigating Flash Crowd Attacks.
 * 🧠  I'm learning Full Stack Development
 * 🤝  I'm open to collaborating on Web development, AI/ML and Cybersecurity related projects and research.
-* ⚡  I am a Beta Microsoft Learn Student Ambassador.
+* ⚡  I am a Gold Microsoft Learn Student Ambassador.
 
 <a href="https://www.github.com/deepthibalasubramanian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/deepthibalasubramanian?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
