@@ -11,6 +11,7 @@ My passion lies in providing equal access to technology for people from diverse 
 
 <a href="https://www.github.com/deepthibalasubramanian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/deepthibalasubramanian?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![](https://visitcount.itsvg.in/api?id=deepthibalasubramanian&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 ### Skills
 <p align="left">
@@ -35,5 +36,3 @@ src="https://img.shields.io/github/followers/deepthibalasubramanian?logo=github&
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-[![](https://visitcount.itsvg.in/api?id=deepthibalasubramanian&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
